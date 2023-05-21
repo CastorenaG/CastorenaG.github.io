@@ -27,7 +27,7 @@ github_username:  CastorenaG
 #flickr_username: jekyll
 #instagram_username: jekyll
 linkedin_username: georgina-castorena-573017265
-credly_username: georgina-elizabeth-castorena-rojas
+credly: https://www.credly.com/users/georgina-elizabeth-castorena-rojas/badges
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
@@ -51,7 +51,7 @@ credly_username: georgina-elizabeth-castorena-rojas
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: C:\Users\Lenovo\OneDrive\Documentos\GitHub\CastorenaG.github.io\images
 about_content: | # this will include new lines to allow paragraphs
   Hi, My name is Georgina, I love networks, servers and cibersecurity. I would like to study a master in cybersecurity.
   I like to work in theams and I lear fast.I like learn every day. Likewise, I also have experience working with servers and a little bit with networks.
@@ -103,11 +103,9 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      "I possess a keen interest in research and consider myself proficient in conducting investigations. Additionally, I have a strong inclination towards remaining proactive and well-prepared for any given situation.
-
+      I possess a keen interest in research and consider myself proficient in conducting investigations. Additionally, I have a strong inclination towards remaining proactive and well-prepared for any given situation.
       I exhibit exceptional teamwork skills, displaying empathy and proficiency in conflict resolution. Furthermore, I prioritize organizational efficiency, diligently managing my time to meet deadlines and optimize productivity.
-
-      I demonstrate adaptability and a rapid learning curve, allowing me to seamlessly integrate into new environments and acquire new skills. Moreover, I am presently at a B1 proficiency level in the English language."
+      I demonstrate adaptability and a rapid learning curve, allowing me to seamlessly integrate into new environments and acquire new skills. Moreover, I am presently at a B1 proficiency level in the English language.
 
 # Footer
 footer_show_references: true
