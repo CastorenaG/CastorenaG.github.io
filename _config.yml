@@ -65,8 +65,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Project Particles
-        
-        link: https://github.com/CastorenaG/proyectoParticulas
+        #link: https://github.com/CastorenaG/proyectoParticulas
         #link_text: Link Text
         #additional_links:
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -76,7 +75,7 @@ content:
           #  icon: fab fa-github
           #  url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          This is a project that works with QTDesigner, Python and Algorithms.
+          Is a project that works with QTDesigner, Python and Algorithms.
         description: | # this will include new lines to allow paragraphs
           This program draws different colored dots, you can select the color using RGB, you can also manually enter the data such as origin, destination, speed and so on. And visualize it in different ways as well as order the information.
 #- title: Experience
