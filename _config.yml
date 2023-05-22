@@ -52,7 +52,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: /images/photo.jpg
+about_profile_image: /images/georgina_castorena.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, My name is Georgina, I love networks, servers and cibersecurity. I would like to study a master in cybersecurity.
   I like to work in theams and I lear fast.I like learn every day. Likewise, I also have experience working with servers and a little bit with networks.
@@ -64,20 +64,20 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: Project Particles
+        link: https://github.com/CastorenaG/proyectoParticulas
         link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #additional_links:
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #  icon: fab fa-github
+          #  url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #  icon: fab fa-github
+          #  url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          This is a project that works with QTDesigner, Python and Algorithms. This program draws different colored dots, you can select the color using RGB, you can also manually enter the data such as origin, destination, speed and so on. And visualize it in different ways as well as order the information.
   - title: Experience
     layout: list
     content:
