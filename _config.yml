@@ -12,7 +12,7 @@ email: georgina.castorena2907@gmail.com
 # email_title: Email (Email title override)
 #phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: https://github.com/CastorenaG
+#website: https://github.com/CastorenaG
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -65,8 +65,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Project Particles
-
-        link: CastorenaG/proyectoParticulas
+        
+        link: https://github.com/CastorenaG/proyectoParticulas
         #link_text: Link Text
         #additional_links:
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
